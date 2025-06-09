@@ -1,0 +1,131 @@
+1
+00:00:04,630 --> 00:00:09,290
+Autism, also known as autism spectrum disorder,
+is characterized by symptoms that include
+
+2
+00:00:09,290 --> 00:00:15,200
+impairments in social communication and interaction
+and restricted and repetitive behaviors.
+
+3
+00:00:15,200 --> 00:00:19,170
+Although the neuroscience of autism is still
+poorly understood, autism is considered to
+
+4
+00:00:19,170 --> 00:00:24,070
+be a complex developmental disorder that involves
+atypical brain organization starting early
+
+5
+00:00:24,070 --> 00:00:26,360
+in development.
+
+6
+00:00:26,360 --> 00:00:30,640
+Individuals with autism often experience a
+period of unusually rapid brain growth in
+
+7
+00:00:30,640 --> 00:00:33,070
+infancy and early childhood.
+
+8
+00:00:33,070 --> 00:00:37,020
+This accelerated brain growth is linked to
+an atypical pattern of connectivity between
+
+9
+00:00:37,020 --> 00:00:38,710
+brain regions.
+
+10
+00:00:38,710 --> 00:00:42,870
+A number of studies report that alterations
+in brain circuitry involved with social interaction
+
+11
+00:00:42,870 --> 00:00:47,670
+and attention can be detected well before
+the symptoms of autism begin to appear.
+
+12
+00:00:47,670 --> 00:00:52,170
+At this point, however, it’s unclear how
+brain overgrowth and atypical connectivity
+
+13
+00:00:52,170 --> 00:00:56,010
+might be linked to the occurrence of autism
+symptoms.
+
+14
+00:00:56,010 --> 00:01:00,250
+Research suggests that the risk of autism
+is strongly influenced by genetics, yet studies
+
+15
+00:01:00,250 --> 00:01:04,370
+consistently report that environmental factors
+also play a large role.
+
+16
+00:01:04,370 --> 00:01:08,100
+Although a number of potential environmental
+factors have been identified, the risk factors
+
+17
+00:01:08,100 --> 00:01:12,359
+for autism are far from definitive, and it
+remains unclear which factors are responsible
+
+18
+00:01:12,359 --> 00:01:17,630
+for causing an increase in autism risk, and
+which are associated in a non-causal way.
+
+19
+00:01:17,630 --> 00:01:21,240
+The risk factors that are most strongly linked
+to autism are associated with the prenatal
+
+20
+00:01:21,240 --> 00:01:22,569
+or perinatal period.
+
+21
+00:01:22,569 --> 00:01:27,479
+Thus, it’s possible they might be responsible
+for disruptions to typical neural development,
+
+22
+00:01:27,479 --> 00:01:30,810
+leading to symptoms of autism months or years
+later.
+
+23
+00:01:30,810 --> 00:01:34,240
+How these risk factors might interfere with
+neural development is still uncertain, but
+
+24
+00:01:34,240 --> 00:01:39,749
+hypotheses have suggested potential mechanisms
+such as epigenetic effects, inflammation,
+
+25
+00:01:39,749 --> 00:01:43,729
+oxidative stress, or damage caused by oxygen
+deficiency.
+
+26
+00:01:43,729 --> 00:01:47,539
+More work needs to be done, however, to fully
+elucidate the genetic and environmental risk
+
+27
+00:01:47,539 --> 00:01:51,679
+factors for autism, as well as the mechanisms
+for the development of autism symptoms.
+

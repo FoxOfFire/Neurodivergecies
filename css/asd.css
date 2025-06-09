@@ -1,0 +1,184 @@
+/*Tablet 768px
+Desktop 992px
+mobile-first*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Open Sans', Arial, sans-serif;
+    background-color: #a1b7e6;
+    transition: 0.4s;
+    transition-timing-function: ease-in-out;
+}
+
+h1 {
+    font-size: 140%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+figure {
+    text-align: left;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+.article {
+    max-width: 100%;
+}
+
+.buttoncont {
+    text-align: center;
+    margin-top: 30%;
+    font-size: 100%;
+    padding-left: 3%;
+}
+
+.collumn {
+    min-width: 375pt;
+    max-width: 50%;
+}
+
+.kepbox {
+    max-width: 100%;
+    width: 100%;
+    margin-right: 20%;
+}
+
+.bottonbox {
+    width: 20%;
+    padding-top: 2.5%;
+    /**/
+    background-color: #100030;
+}
+
+.menubutton {
+    background-color: #f0f0f0;
+    text-decoration: none;
+    /**/
+    margin: 5%;
+    margin-top: 20%;
+    /**/
+    padding: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    /**/
+    border: 1pt black solid;
+    border-radius: 5pt;
+    text-align: center;
+    font-size: 100%;
+}
+
+.button {
+    background-color: #f0f0f0;
+}
+
+.herebutton {
+    background-color: #100030;
+    color: #f0f0f0;
+}
+
+.herebutton,
+.button {
+    text-decoration: none;
+    /**/
+    margin: auto;
+    font-size: 110%;
+    text-align: center;
+    /**/
+    border-radius: 5pt;
+    border: 1pt black solid;
+    /**/
+    padding: 10%;
+}
+
+.oldaldiv {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.oldallofasz {
+    margin: 1%;
+    /**/
+    background-color: #e6b7a1;
+    border: 1pt black solid;
+    border-radius: 5pt;
+    /**/
+    padding: 1%;
+    width: 150pt;
+    min-width: 130pt;
+    max-width: 150pt;
+    /**/
+    overflow: hidden;
+    text-align: center;
+}
+
+.divdoboz {
+    margin: 1%;
+    margin-top: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    width: 100%;
+    margin: auto;
+}
+
+.cimdiv {
+    text-decoration: none;
+    display: inline-flex;
+    overflow: hidden;
+    width: 100%;
+    margin: auto;
+    /**/
+    border: 1pt black solid;
+    border-radius: 5pt;
+}
+
+.szovegdozob {
+    max-width: 100%;
+    min-width: 75%;
+    /**/
+    background-color: #e0e0e0;
+    margin: 1%;
+    float: left;
+    /**/
+    border: 1pt #000000 solid;
+    border-radius: 5pt;
+    /**/
+    padding: 2%;
+    font-size: 120%;
+    text-align: justify;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.cimbazmeg {
+    background-color: #100030;
+    /**/
+    padding: 2%;
+    width: 100%;
+    height: 30%;
+    /**/
+    color: #f0f0f0;
+    font-size: 170%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.read a {
+    position: absolute;
+    left: -8888pt;
+}
+
+.read a:focus {
+    position: static;
+    background: #fff;
+}

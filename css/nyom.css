@@ -1,0 +1,60 @@
+@media print {
+    body {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        background-image: none;
+        text-align: left;
+    }
+    .oldaldiv {
+        margin: 0;
+    }
+    .cimdiv,
+    .form,
+    caption,
+    .foot,
+    .oldallofasz,
+    .cimbazmeg,
+    .read a,
+    section,
+    .fontbutton,
+    aside,
+    .link {
+        display: none;
+    }
+    .article {
+        text-align: justify;
+    }
+    th,
+    td,
+    table,
+    .szovegdozob {
+        background-color: white;
+    }
+    .szovegdozob,
+    table {
+        border: 1pt #000000 none;
+    }
+    .divdoboz {
+        margin: 1%;
+        margin-top: 2%;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        width: 100%;
+        margin: auto;
+    }
+    figure {
+        text-align: left;
+    }
+    .kepdoboz {
+        width: 100%;
+        margin-left: -4%;
+    }
+    li {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+}
